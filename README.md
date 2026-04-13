@@ -1,8 +1,8 @@
-# 🤖 AI Practice Projects Showcase
+# AI Practice Projects Showcase
 
 This repository is a collection of projects I built while exploring and practicing with AI tools such as Cursor and other AI-assisted development workflows.
 
-## 📌 About This Repository
+## About This Repository
 
 The purpose of this repo is to document my learning journey and demonstrate how AI can be used to:
 
@@ -15,7 +15,7 @@ Each project here represents hands-on practice using AI to assist in coding, deb
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Learn how to effectively use AI tools in real development scenarios
 * Understand the strengths and limitations of AI-assisted coding
@@ -24,7 +24,7 @@ Each project here represents hands-on practice using AI to assist in coding, deb
 
 ---
 
-## 🧠 Tools & Technologies
+## Tools & Technologies
 
 * **Cursor** – AI-powered code editor
 * **ChatGPT / LLMs** – for code generation, explanations, and debugging
@@ -33,7 +33,7 @@ Each project here represents hands-on practice using AI to assist in coding, deb
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Each folder in this repository contains a separate project.
 
@@ -49,7 +49,7 @@ project-name/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Browse the repository
 2. Open any project folder
@@ -58,7 +58,7 @@ project-name/
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 * How to break down problems and guide AI effectively
 * Writing better prompts leads to better code
@@ -67,14 +67,14 @@ project-name/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These projects are created for learning and experimentation purposes.
 Some implementations may not follow production-level best practices.
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * Add more complex and real-world projects
 * Improve documentation and testing
@@ -82,13 +82,13 @@ Some implementations may not follow production-level best practices.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Thanks to the developers and communities behind AI tools that make learning and building faster and more accessible.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to connect or reach out if you’d like to collaborate or share ideas!
 
